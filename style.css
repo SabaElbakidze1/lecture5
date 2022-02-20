@@ -1,0 +1,115 @@
+body{
+	width: 1440px;
+	height: 1737px;   
+    background-color: #F6F8F9;
+}
+
+.li{
+	display: inline-block;
+    vertical-align: middle;
+    font-size: 22px;
+    margin: 20px;
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+    margin-right: 25px;
+}
+.head{
+	display: inline-block;
+	vertical-align: middle;
+    margin-left: 100px;    
+}
+.headd{
+	display: inline-block;
+	vertical-align: middle;
+    color: grey;
+    margin-left: 25px;
+}
+.heead{
+	display: inline-block;
+	vertical-align: middle;
+    color: grey;
+    margin-left: 25px;  
+}
+.heaad{
+	display: inline-block;
+	vertical-align: middle;
+    color: grey;
+    margin-left: 25px;
+}
+.girl{
+	display: inline-block;
+	vertical-align: middle;
+    margin-left: 10px;
+   
+}
+
+.header{
+	
+	position: fixed;
+	margin-top: -200px;
+	z-index: 1000;
+}
+.mount{
+	z-index: 1;
+    margin-top: 80px;
+    margin-right: 20px;
+}
+
+.umbrella{
+	 margin-top: 80px;
+    margin-right: 20px;
+}
+
+.divdiv{
+	width: 1160px;
+	height: 440px;
+    margin-left: 250px; 
+    margin-top: 200px;
+    background-color: ;
+}
+
+.tranding{
+	z-index: 2;
+	margin-left: 10px;
+	margin-top: 20px;
+    front-size: 74px; 
+    font-family: "BPG Banner", sans-serif;
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 20px;
+    color: grey;
+   font-family: "BPG Banner", sans-serif;
+ 
+}
+
+.divdivdiv{
+	width: 360px;
+	height: 180px;
+	background-color: white;
+    margin-top: -40px;
+}
+.time{
+	margin-top: 80px;
+}
+.minibox{
+	width: 360px;
+	height: 180px;
+	background-color: white;
+    margin-top: -220px;
+    margin-left: 385px;
+}
+.mini{
+	width: 360px;
+	height: 180px;
+	background-color: white;
+    margin-top: -220px;
+    margin-left: 768px;
+}
