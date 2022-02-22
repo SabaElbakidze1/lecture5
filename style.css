@@ -24,24 +24,28 @@ nav{
 	display: inline-block;
 	vertical-align: middle;
     margin-left: 120px;    
+    font-family: "BPG Banner", sans-serif;
 }
 .headd{
 	display: inline-block;
 	vertical-align: middle;
     color: grey;
     margin-left: 25px;
+    font-family: "BPG Banner", sans-serif;
 }
 .heead{
 	display: inline-block;
 	vertical-align: middle;
     color: grey;
     margin-left: 25px;  
+   font-family: "BPG Banner", sans-serif;
 }
 .heaad{
 	display: inline-block;
 	vertical-align: middle;
     color: grey;
     margin-left: 25px;
+   font-family: "BPG Banner", sans-serif;
 }
 .girl{
 	display: inline-block;
@@ -145,60 +149,77 @@ h1{
 }
 .relative{
 	width: 1980px;
-	height: 250px;
+	height: 550px;
     background-color: #A6ADB4;
     margin-top: 100px;
     position: relative;
 }
 .absolute{
-	width: 586px;
-	height: 110px;
-    background-color: #A6ADB4;
-    margin-left: 150px;
-    margin-top: 100px;
+	width: 86px;
+	height: 160px;
+    background-color:#A6ADB4;
+    margin-left: 250px;
+    margin-top: 200px;
     position: absolute;
     display: inline-block;
     vertical-align: middle;
 }
-.logoo{
-	color: white;
-    margin-top: 20px;
+
+
+.absolutee{
+	width: 86px;
+	height: 160px;
+    background-color:#A6ADB4;
+    margin-left: 150px;
+    margin-top: -163px;
+    position: absolute;
     display: inline-block;
     vertical-align: middle;
-    margin-right: 50px; 
 }
-.footer{
-	color: white;
-    margin-left: 40px;
-     line-height: 150%;
+.absoluteee{
+	width: 86px;
+	height: 160px;
+    background-color:#A6ADB4 ;
+    margin-left: 300px;
+    margin-top: -163px;
+    position: absolute;
+    display: inline-block;
+    vertical-align: middle;
+}
+h5{
+	color:#CBD0D3;
+}
 
+.saba{
+	width: 343px;
+	height: 20px;
+    background-color:#A6ADB4 ;
+    margin-left: 700px;
+    margin-top: -163px;
+    position: absolute;
+    display: inline-block;
+    vertical-align: middle;
 }
-.footerr{
-	color: ;
-	margin-left: 370px;	
-    margin-bottom: 100px; 
+.sabaa{
+	color: #CBD0D3;
+    display: inline-block;
+    vertical-align: middle;
 }
-
-.textt{
-     display: inline-block;
-     vertical-align: middle;
-     color: white; 
-     word-spacing: 60px;
-     margin-left: 40px;
-    }
-.texti{
-	display: inline-block;
-	vertical-align: middle;
-    margin-left: 110PX;
-    color: white;
-    word-spacing: 40px;
-     
+.end{
+	width: 160px;
+	height: 16px;
+    margin-left: 1400px;
+    margin-top: -140px;
+    position: absolute;
+    display: inline-block;
+    vertical-align: middle;
 }
-.textii{
-	display: inline-block;
-	vertical-align: middle;
-    margin-left: 110PX;
-    color: white;
-    word-spacing: 40px;
-    margin-top: 10px;
+.instagram{
+ margin-right: 20px;
+}
+.twitter{
+margin-right: 20px;
+}
+.facebook{
+margin-right: 20px;
 }
